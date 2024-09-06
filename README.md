@@ -1,9 +1,6 @@
 # Changing times
 <a name="readme-top"></a>
 [![NextJS]][NextJS-url]
-## About The Project
-
-This project is a demonstration of an AI Image Generator powered by OpenAI, utilizing NextJS server actions. 
 
 
 
