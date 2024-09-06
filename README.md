@@ -1,4 +1,4 @@
-# AI Image Generator  Demo
+# Changing times
 <a name="readme-top"></a>
 [![NextJS]][NextJS-url]
 ## About The Project
